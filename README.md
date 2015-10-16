@@ -7,3 +7,7 @@
 
 # maybe 
 * [d3](http://d3js.org/)
+
+# Build & Dependency Management
+* [Grunt](http://gruntjs.com/)
+* [Bower](http://bower.io/)
