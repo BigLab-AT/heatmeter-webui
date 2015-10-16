@@ -1,5 +1,8 @@
 # heatmeter-webui
 
+# Boilerplate
+* [SB Admin v2.0](https://github.com/start-angular/sb-admin-angular)
+
 # planned frameworks
 * [AngularJS](https://angularjs.org/)
 * [jQuery](https://jquery.com/)
@@ -14,3 +17,6 @@
 
 # HTML&CSS
 * [Twitter Bootstrap](http://getbootstrap.com/)
+
+# WebSQL/IndexedDB
+* [angular-indexedDB](https://github.com/bramski/angular-indexedDB)
