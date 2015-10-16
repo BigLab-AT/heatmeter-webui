@@ -7,6 +7,7 @@
 * [AngularJS](https://angularjs.org/)
 * [jQuery](https://jquery.com/)
 * [epoch.js](https://fastly.github.io/epoch/) with [ng-epoch](https://github.com/dainbrump/ng-epoch)
+* [highcharts.js](http://www.highcharts.com/demo/dynamic-master-detail) for history charts
 
 # maybe 
 * [d3](http://d3js.org/)
