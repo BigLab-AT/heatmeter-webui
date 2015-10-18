@@ -1,0 +1,18 @@
+{
+  "name": "heatmeter-webui",
+  "private": true,
+  "version": "0.0.0",
+  "description": "n/a",
+  "repository": "https://github.com/BigLab-AT/heatmeter-webui",
+  "license": "n/a",
+  "devDependencies": {
+    "bower": "^1.3.1",
+    "http-server": "^0.6.1",
+  },
+  "scripts": {
+    "postinstall": "bower install",
+
+    "prestart": "npm install",
+    "start": "http-server -a localhost -p 8000 -c-1"
+  }
+}

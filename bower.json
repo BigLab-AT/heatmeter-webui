@@ -1,0 +1,17 @@
+{
+  "name": "heatmeter-webui",
+  "description": "n/a",
+  "version": "0.0.0",
+  "homepage": "https://github.com/BigLab-AT/heatmeter-webui",
+  "license": "n/a",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.1.1",
+    "angular-route": "1.4.x",
+    "angular-indexedDB": "~0.0.0",
+    "html5-boilerplate": "~5.2.0",
+    "ng-epoch": "~1.0.7",
+    "highcharts-release": "~4.1.0"
+  }
+}
